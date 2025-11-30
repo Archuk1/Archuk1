@@ -26,4 +26,3 @@ Welcome to my GitHub! Here you will find my projects, practice tasks, and experi
 **Email:** vadymkiricenko572@gmail.com   
 **Telegram:** [t.me/actekx](https://t.me/actekx)  
 **Instagram:** [instagram.com/kyrychenko.vadim](https://www.instagram.com/kyrychenko.vadim/)
-**Location:** Vinnytsia, Ukraine 
