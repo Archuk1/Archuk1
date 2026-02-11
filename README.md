@@ -1,6 +1,6 @@
 # Hi, I'm Vadym 👋
 
-### JavaScript developer skilled in HTML and CSS
+### Frontend developer skilled in HTML,CSS,JavaScript and React
 
 Welcome to my GitHub! Here you will find my projects, practice tasks, and experiments as I grow as a front-end developer.
 
