@@ -1,26 +1,44 @@
-#Hi, I'm Vadym 👋
+# Hi, I'm Vadym 👋
 Frontend Developer | React • Next.js • JavaScript
 I am a motivated Frontend Developer specializing in building modern, responsive, and scalable web applications using React and Next.js.
 I focus on clean architecture, reusable components, and efficient data fetching.
 
 I enjoy working with dynamic interfaces, API integrations, and improving performance using modern frontend tools.
 
-🚀 Skills
-JavaScript (ES6+)
 
-React
+## 🚀 Skills
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Responsive & Adaptive Layout
+- Git / GitHub
 
-Next.js (App Router, SSR, CSR)
+---
 
-HTML5 / CSS3
+## 📌 Featured Projects
+- [goit-markup-hw-06](https://github.com/Archuk1/goit-markup-hw-06)
+- Responsive website layout created from a design mockup.
+Used semantic HTML, Flexbox, adaptive layout, and BEM methodology.
+Focused on clean structure, accessibility, and cross-browser compatibility.
 
-Responsive & Adaptive Layout
+- [goit-js-hw-12](https://github.com/Archuk1/goit-js-hw-12)
+- Tech stack: JavaScript, REST API
+Application with asynchronous requests, pagination, and dynamic content rendering. Focused on working with fetch, promises, and DOM manipulation.
 
-REST API integration
+- [webbee-project](https://github.com/Wiktor-Bruy/webee-project)
+- Tech stack: JavaScript, REST API
+Application with asynchronous requests, pagination, and dynamic content rendering. Focused on working with fetch, promises, and DOM manipulation.
 
-TanStack Query
+- [paw-haven](https://github.com/Archuk1/paw-haven)
+- Web application for browsing animal listings with dynamic content rendering.
+Implemented API data fetching, pagination, filtering, and interactive UI elements.
+Focused on working with asynchronous JavaScript (fetch, promises) and DOM manipulation.
 
-Git / GitHub
+---
+
+## 📫 Contact
+**Email:** vadymkiricenko572@gmail.com   
+**Telegram:** [t.me/actekx](https://t.me/actekx)  
+**LinkedIn:** [https://www.linkedin.com/in/vadym-kyrychenko/](https://www.linkedin.com/in/vadym-kyrychenko/)
 
 📌 Featured Projects
 🔹 paw-haven
@@ -28,20 +46,7 @@ Tech stack: Next.js, React, REST API
 Modern web application built with Next.js using client and server components, dynamic routing, and API integration. Implemented data fetching, state management, and responsive UI.
 🔗 https://github.com/Archuk1/paw-haven
 
-🔹 goit-js-hw-12
-Tech stack: JavaScript, REST API
-Application with asynchronous requests, pagination, and dynamic content rendering. Focused on working with fetch, promises, and DOM manipulation.
-🔗 https://github.com/Archuk1/goit-js-hw-12
 
-🔹 webbee-project
-Tech stack: HTML, CSS, JavaScript (Team Project)
-Collaborative project using Git workflow. Worked on UI components and layout implementation.
-
-📫 Contact
-Email: vadymkiricenko572@gmail.com
-Telegram: https://t.me/actekx
-Instagram: https://www.instagram.com/kyrychenko.vadim/
-LinkedIn: https://www.linkedin.com/in/your-linkedin
 
 
 
