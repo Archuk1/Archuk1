@@ -21,10 +21,9 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 ---
 
 ## 📌 Featured Projects
-- [goit-markup-hw-06](https://github.com/Archuk1/goit-markup-hw-06)
- Responsive website layout created from a design mockup.
-Used semantic HTML, Flexbox, adaptive layout, and BEM methodology.
-Focused on clean structure, accessibility, and cross-browser compatibility.
+- [NoteHub](https://github.com/Archuk1/NoteHub.git)
+ NoteHub is a simple and efficient application designed for managing personal notes. It helps keep your thoughts organized and accessible in one place, whether you are at home or on the go.
+The app provides a clean interface for writing, editing, and browsing notes. With support for keyword search and structured organization, NoteHub offers a streamlined experience for anyone who values clarity and productivity.
 
 - [goit-js-hw-12](https://github.com/Archuk1/goit-js-hw-12)
  Tech stack: JavaScript, REST API
