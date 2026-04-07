@@ -17,6 +17,7 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 - REST API integration
 - TanStack Query
 - Git / GitHub
+- Node.js
 
 ---
 
