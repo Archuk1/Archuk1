@@ -9,7 +9,7 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 
 ## 🚀 Skills
 
-#Frontend
+# Frontend
 
 - JavaScript (ES6+)
 - TypeScript
@@ -21,7 +21,7 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 - HTML5, CSS3, CSS Modules
 - Responsive & Adaptive Layout
 
-#Backend
+# Backend
 
 - Node.js
 - Express
@@ -30,7 +30,7 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 - REST API development
 - JWT Authentication
 
-#Tools
+# Tools
 
 - Git / GitHub
 - ESLint
