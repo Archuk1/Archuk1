@@ -1,9 +1,6 @@
 # Hi, I'm Vadym 👋
-Frontend Developer | React • Next.js • JavaScript
-I am a motivated Frontend Developer specializing in building modern, responsive, and scalable web applications using React and Next.js.
-I focus on clean architecture, reusable components, and efficient data fetching.
-
-I enjoy working with dynamic interfaces, API integrations, and improving performance using modern frontend tools.
+Frontend Developer | Fullstack Developer | React • Next.js • TypeScript • Node.js
+I am a motivated developer specializing in building modern, responsive, and scalable web applications. On the frontend I work with React and Next.js, focusing on clean architecture, reusable components, and efficient state management. On the backend I have hands-on experience with Node.js, Express, MongoDB, and REST API development.
 
 ---
 
