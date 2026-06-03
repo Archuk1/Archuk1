@@ -9,28 +9,34 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 
 ## 🚀 Skills
 
-Frontend
+#Frontend
 
-JavaScript (ES6+), TypeScript
-React, Next.js (App Router, SSR, CSR)
-Zustand, TanStack Query
-Formik, Yup
-HTML5, CSS3, CSS Modules
-Responsive & Adaptive Layout
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js (App Router, SSR, CSR)
+- Zustand
+- TanStack Query
+- Formik, Yup
+- HTML5, CSS3, CSS Modules
+- Responsive & Adaptive Layout
 
-Backend
+#Backend
 
-Node.js, Express
-MongoDB, Mongoose
-REST API development
-JWT Authentication
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API development
+- JWT Authentication
 
-Tools
+#Tools
 
-Git / GitHub
-ESLint, Prettier
-Postman
-Vercel
+- Git / GitHub
+- ESLint
+- Prettier
+- Postman
+- Verce
 
 ---
 
