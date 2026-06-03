@@ -8,20 +8,38 @@ I enjoy working with dynamic interfaces, API integrations, and improving perform
 ---
 
 ## 🚀 Skills
-- JavaScript (ES6+)
-- React
-- Next.js(App Router, SSR, CSR)
-- HTML5
-- CSS3
-- Responsive & Adaptive Layout
-- REST API integration
-- TanStack Query
-- Git / GitHub
-- Node.js
+
+Frontend
+
+JavaScript (ES6+), TypeScript
+React, Next.js (App Router, SSR, CSR)
+Zustand, TanStack Query
+Formik, Yup
+HTML5, CSS3, CSS Modules
+Responsive & Adaptive Layout
+
+Backend
+
+Node.js, Express
+MongoDB, Mongoose
+REST API development
+JWT Authentication
+
+Tools
+
+Git / GitHub
+ESLint, Prettier
+Postman
+Vercel
 
 ---
 
 ## 📌 Featured Projects
+
+- [Leleka(Stork)](https://github.com/Archuk1/Leleka.git)
+ A team fullstack project — a pregnancy tracking web application built with Next.js, TypeScript, and Zustand on the frontend, and Node.js, MongoDB on the backend. Features weekly baby development insights, a personal diary, task manager, and secure authentication.
+Stack: Next.js · TypeScript · Zustand · Axios · Node.js · MongoDB · CSS Modules
+
 - [NoteHub](https://github.com/Archuk1/NoteHub.git)
  NoteHub is a simple and efficient application designed for managing personal notes. It helps keep your thoughts organized and accessible in one place, whether you are at home or on the go.
 The app provides a clean interface for writing, editing, and browsing notes. With support for keyword search and structured organization, NoteHub offers a streamlined experience for anyone who values clarity and productivity.
