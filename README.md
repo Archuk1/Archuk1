@@ -33,7 +33,7 @@ I am a motivated developer specializing in building modern, responsive, and scal
 - ESLint
 - Prettier
 - Postman
-- Verce
+- Vercel
 
 ---
 
