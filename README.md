@@ -47,9 +47,9 @@ Stack: Next.js · TypeScript · Zustand · Axios · Node.js · MongoDB · CSS Mo
  NoteHub is a simple and efficient application designed for managing personal notes. It helps keep your thoughts organized and accessible in one place, whether you are at home or on the go.
 The app provides a clean interface for writing, editing, and browsing notes. With support for keyword search and structured organization, NoteHub offers a streamlined experience for anyone who values clarity and productivity.
 
-- [goit-js-hw-12](https://github.com/Archuk1/goit-js-hw-12)
- Tech stack: JavaScript, REST API
-Application with asynchronous requests, pagination, and dynamic content rendering. Focused on working with fetch, promises, and DOM manipulation.
+- [Meeting Room Booking](https://github.com/Archuk1/meeting-room-booking.git)
+  A fullstack web app for booking meeting rooms — authentication, room management with role-based access (admin/member), and scheduling with real-time conflict detection to prevent double-booking.
+Stack: Next.js · TypeScript · TanStack Query · React Hook Form · Zod · Zustand · Express · Prisma · PostgreSQL
 
 - [webbee-project](https://github.com/Wiktor-Bruy/webee-project)
  Tech stack: JavaScript, REST API
