@@ -63,7 +63,7 @@ Focused on working with asynchronous JavaScript (fetch, promises) and DOM manipu
 ---
 
 ## 📫 Contact
-**Email:** vadymkiricenko572@gmail.com   
+**Email:** vadimkiricenko572@gmail.com   
 **Telegram:** [t.me/actekx](https://t.me/actekx)  
 **LinkedIn:** [https://www.linkedin.com/in/vadym-kyrychenko/](https://www.linkedin.com/in/vadym-kyrychenko/)
 
